@@ -6,8 +6,6 @@ body {
 
 textarea {
   background: transparent;
-  /* Added background-color so I could see it before I change it later with JS */
-  background-color: #77dd77;
   border: none;
   resize: none;
   color: #000000;
